@@ -1,0 +1,17 @@
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.Form1.resources
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.csproj.GenerateResource.cache
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.AssemblyInfoInputs.cache
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.AssemblyInfo.cs
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.csproj.CoreCompileInputs.cache
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.sourcelink.json
+C:\Users\sonnc\source\repos\Clockeate\bin\Debug\net8.0-windows\Clockeate.exe
+C:\Users\sonnc\source\repos\Clockeate\bin\Debug\net8.0-windows\Clockeate.deps.json
+C:\Users\sonnc\source\repos\Clockeate\bin\Debug\net8.0-windows\Clockeate.runtimeconfig.json
+C:\Users\sonnc\source\repos\Clockeate\bin\Debug\net8.0-windows\Clockeate.dll
+C:\Users\sonnc\source\repos\Clockeate\bin\Debug\net8.0-windows\Clockeate.pdb
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.dll
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\refint\Clockeate.dll
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.pdb
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\Clockeate.genruntimeconfig.cache
+C:\Users\sonnc\source\repos\Clockeate\obj\Debug\net8.0-windows\ref\Clockeate.dll
