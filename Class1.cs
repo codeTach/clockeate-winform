@@ -9,7 +9,10 @@ namespace Clockeate
     internal class Class1
     {
 
-
+        void data()
+        {
+            Console.WriteLine("Hello World");
+        }
 
 
 
