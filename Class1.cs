@@ -11,7 +11,7 @@ namespace Clockeate
 
         void data()
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Nothing to do here yet.");
         }
 
 
