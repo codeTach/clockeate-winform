@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clockeate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb0396896575115d70d0075c7c5e5fcc3c2a7d30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24e953e271bcc32d13c4f8fd3ac362cd3ac713dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Clockeate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Clockeate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
